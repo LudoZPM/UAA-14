@@ -1,0 +1,14 @@
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\bin\Debug\net6.0\6TI_Ludo_TryParseExercice.exe
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\bin\Debug\net6.0\6TI_Ludo_TryParseExercice.deps.json
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\bin\Debug\net6.0\6TI_Ludo_TryParseExercice.runtimeconfig.json
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\bin\Debug\net6.0\6TI_Ludo_TryParseExercice.dll
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\bin\Debug\net6.0\6TI_Ludo_TryParseExercice.pdb
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\obj\Debug\net6.0\6TI_Ludo_TryParseExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\obj\Debug\net6.0\6TI_Ludo_TryParseExercice.AssemblyInfoInputs.cache
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\obj\Debug\net6.0\6TI_Ludo_TryParseExercice.AssemblyInfo.cs
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\obj\Debug\net6.0\6TI_Ludo_TryParseExercice.csproj.CoreCompileInputs.cache
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\obj\Debug\net6.0\6TI_Ludo_TryParseExercice.dll
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\obj\Debug\net6.0\refint\6TI_Ludo_TryParseExercice.dll
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\obj\Debug\net6.0\6TI_Ludo_TryParseExercice.pdb
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\obj\Debug\net6.0\6TI_Ludo_TryParseExercice.genruntimeconfig.cache
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\6TI_Ludo_TryParseExercice\obj\Debug\net6.0\ref\6TI_Ludo_TryParseExercice.dll
