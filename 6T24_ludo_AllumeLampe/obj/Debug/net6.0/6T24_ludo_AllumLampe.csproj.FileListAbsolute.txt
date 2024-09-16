@@ -1,0 +1,14 @@
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\bin\Debug\net6.0\6T24_ludo_AllumLampe.exe
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\bin\Debug\net6.0\6T24_ludo_AllumLampe.deps.json
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\bin\Debug\net6.0\6T24_ludo_AllumLampe.runtimeconfig.json
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\bin\Debug\net6.0\6T24_ludo_AllumLampe.dll
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\bin\Debug\net6.0\6T24_ludo_AllumLampe.pdb
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\obj\Debug\net6.0\6T24_ludo_AllumLampe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\obj\Debug\net6.0\6T24_ludo_AllumLampe.AssemblyInfoInputs.cache
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\obj\Debug\net6.0\6T24_ludo_AllumLampe.AssemblyInfo.cs
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\obj\Debug\net6.0\6T24_ludo_AllumLampe.csproj.CoreCompileInputs.cache
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\obj\Debug\net6.0\6T24_ludo_AllumLampe.dll
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\obj\Debug\net6.0\refint\6T24_ludo_AllumLampe.dll
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\obj\Debug\net6.0\6T24_ludo_AllumLampe.pdb
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\obj\Debug\net6.0\6T24_ludo_AllumLampe.genruntimeconfig.cache
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_ludo_AllumLampe\obj\Debug\net6.0\ref\6T24_ludo_AllumLampe.dll
