@@ -1,0 +1,14 @@
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\bin\Debug\net6.0\6T24_Ludo_PremiereClass.exe
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\bin\Debug\net6.0\6T24_Ludo_PremiereClass.deps.json
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\bin\Debug\net6.0\6T24_Ludo_PremiereClass.runtimeconfig.json
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\bin\Debug\net6.0\6T24_Ludo_PremiereClass.dll
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\bin\Debug\net6.0\6T24_Ludo_PremiereClass.pdb
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\obj\Debug\net6.0\6T24_Ludo_PremiereClass.GeneratedMSBuildEditorConfig.editorconfig
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\obj\Debug\net6.0\6T24_Ludo_PremiereClass.AssemblyInfoInputs.cache
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\obj\Debug\net6.0\6T24_Ludo_PremiereClass.AssemblyInfo.cs
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\obj\Debug\net6.0\6T24_Ludo_PremiereClass.csproj.CoreCompileInputs.cache
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\obj\Debug\net6.0\6T24_Ludo_PremiereClass.dll
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\obj\Debug\net6.0\refint\6T24_Ludo_PremiereClass.dll
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\obj\Debug\net6.0\6T24_Ludo_PremiereClass.pdb
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\obj\Debug\net6.0\6T24_Ludo_PremiereClass.genruntimeconfig.cache
+H:\6T24_Ludo_PremiereClass\6T24_Ludo_PremiereClass\obj\Debug\net6.0\ref\6T24_Ludo_PremiereClass.dll
