@@ -1,0 +1,14 @@
+H:\6T24_ludo_cercle\6T24_ludo_cercle\bin\Debug\net6.0\6T24_ludo_cercle.exe
+H:\6T24_ludo_cercle\6T24_ludo_cercle\bin\Debug\net6.0\6T24_ludo_cercle.deps.json
+H:\6T24_ludo_cercle\6T24_ludo_cercle\bin\Debug\net6.0\6T24_ludo_cercle.runtimeconfig.json
+H:\6T24_ludo_cercle\6T24_ludo_cercle\bin\Debug\net6.0\6T24_ludo_cercle.dll
+H:\6T24_ludo_cercle\6T24_ludo_cercle\bin\Debug\net6.0\6T24_ludo_cercle.pdb
+H:\6T24_ludo_cercle\6T24_ludo_cercle\obj\Debug\net6.0\6T24_ludo_cercle.GeneratedMSBuildEditorConfig.editorconfig
+H:\6T24_ludo_cercle\6T24_ludo_cercle\obj\Debug\net6.0\6T24_ludo_cercle.AssemblyInfoInputs.cache
+H:\6T24_ludo_cercle\6T24_ludo_cercle\obj\Debug\net6.0\6T24_ludo_cercle.AssemblyInfo.cs
+H:\6T24_ludo_cercle\6T24_ludo_cercle\obj\Debug\net6.0\6T24_ludo_cercle.csproj.CoreCompileInputs.cache
+H:\6T24_ludo_cercle\6T24_ludo_cercle\obj\Debug\net6.0\6T24_ludo_cercle.dll
+H:\6T24_ludo_cercle\6T24_ludo_cercle\obj\Debug\net6.0\refint\6T24_ludo_cercle.dll
+H:\6T24_ludo_cercle\6T24_ludo_cercle\obj\Debug\net6.0\6T24_ludo_cercle.pdb
+H:\6T24_ludo_cercle\6T24_ludo_cercle\obj\Debug\net6.0\6T24_ludo_cercle.genruntimeconfig.cache
+H:\6T24_ludo_cercle\6T24_ludo_cercle\obj\Debug\net6.0\ref\6T24_ludo_cercle.dll
