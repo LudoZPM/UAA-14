@@ -1,0 +1,63 @@
+﻿<Window x:Class="UAA14_24_I2_bechet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UAA14_24_I2_bechet"
+        mc:Ignorable="d"
+        Title="Jeu des 5000" Height="450" Width="800">
+    <Grid Background="#F2AB27"  >
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition />
+            <ColumnDefinition  />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition  />
+            <RowDefinition  />
+        </Grid.RowDefinitions>
+
+
+        <GroupBox Foreground="#102540"  FontSize="20" Header="parametre">
+            <WrapPanel >
+                <TextBlock>nombre de dés</TextBlock>
+                <TextBox Background="white" Width="60" Margin="200,0,0,0"></TextBox>
+                <TextBlock>joueur deja inscrit</TextBlock>
+                <ComboBox>
+                    <ComboBoxItem>Nom du joueur</ComboBoxItem>
+                </ComboBox>
+                <TextBlock Width="300" Margin="0,40,0,0">pseudo</TextBlock>
+                <TextBox Background="white" Width="60" Margin="200,0,0,0"></TextBox>
+                
+            </WrapPanel>
+        </GroupBox>
+
+
+
+        <GroupBox  FontSize="20"   Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+          <DockPanel >
+
+                <Button DockPanel.Dock="Bottom" Margin="0,0,0,50" Background="#F2E963" Foreground="#F2AB27"  Height="30" Width="350">"Démmarrer le jeu"</Button>
+                <Button DockPanel.Dock="Top" Margin="0,50,0,0" Background="#F2E963" Foreground="#F2AB27"  Height="30" Width="350">"Stopper le jeu"</Button>
+
+
+            </DockPanel>  
+            
+        </GroupBox>
+
+        <GroupBox Foreground="#102540" Header="resulat" FontSize="20" Grid.Column="2">
+            <DockPanel>
+                <TextBlock DockPanel.Dock="Top">Jet: 1, 2, 2, 5, 6</TextBlock>
+                <TextBlock DockPanel.Dock="Top"> Points gagnés</TextBlock>
+                <TextBlock>Total des points</TextBlock>
+            </DockPanel>
+        </GroupBox>
+        
+        <TextBlock Foreground="#102540" FontSize="20" Grid.Row="2" Grid.Column="2" Margin="20,90,0,0"> 'Pseudo' tu peux laner 3 dés</TextBlock>
+        <TextBox Grid.Row="2" Grid.Column="2" Width="12" Height="12"  Margin="0,70,360,0"></TextBox>
+        <TextBlock Foreground="#102540" FontSize="20" Grid.Row="2" Grid.Column="2" Margin="35,130,0,0">Relancer</TextBlock>
+        <Button FontSize="20" Grid.Row="2" Grid.Column="2" Margin="0,140,0,0" Background="#F2E963" Foreground="#F2AB27"  Height="30" Width="350">"joeur suivant"</Button>
+
+
+
+    </Grid>
+</Window>
