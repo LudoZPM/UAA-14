@@ -1,0 +1,4 @@
+H:\I2P624_Bechet\obj\Debug\net6.0\I2P624_Bechet.GeneratedMSBuildEditorConfig.editorconfig
+H:\I2P624_Bechet\obj\Debug\net6.0\I2P624_Bechet.AssemblyInfoInputs.cache
+H:\I2P624_Bechet\obj\Debug\net6.0\I2P624_Bechet.AssemblyInfo.cs
+H:\I2P624_Bechet\obj\Debug\net6.0\I2P624_Bechet.csproj.CoreCompileInputs.cache
