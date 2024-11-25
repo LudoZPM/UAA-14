@@ -1,0 +1,28 @@
+H:\6T24_LudoBechet_PooAct6\bin\Debug\net6.0\6T24_LudoBechet_PooAct6.exe
+H:\6T24_LudoBechet_PooAct6\bin\Debug\net6.0\6T24_LudoBechet_PooAct6.deps.json
+H:\6T24_LudoBechet_PooAct6\bin\Debug\net6.0\6T24_LudoBechet_PooAct6.runtimeconfig.json
+H:\6T24_LudoBechet_PooAct6\bin\Debug\net6.0\6T24_LudoBechet_PooAct6.dll
+H:\6T24_LudoBechet_PooAct6\bin\Debug\net6.0\6T24_LudoBechet_PooAct6.pdb
+H:\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.GeneratedMSBuildEditorConfig.editorconfig
+H:\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.AssemblyInfoInputs.cache
+H:\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.AssemblyInfo.cs
+H:\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.csproj.CoreCompileInputs.cache
+H:\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.dll
+H:\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\refint\6T24_LudoBechet_PooAct6.dll
+H:\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.pdb
+H:\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.genruntimeconfig.cache
+H:\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\ref\6T24_LudoBechet_PooAct6.dll
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\bin\Debug\net6.0\6T24_LudoBechet_PooAct6.exe
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\bin\Debug\net6.0\6T24_LudoBechet_PooAct6.deps.json
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\bin\Debug\net6.0\6T24_LudoBechet_PooAct6.runtimeconfig.json
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\bin\Debug\net6.0\6T24_LudoBechet_PooAct6.dll
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\bin\Debug\net6.0\6T24_LudoBechet_PooAct6.pdb
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.AssemblyInfoInputs.cache
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.AssemblyInfo.cs
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.csproj.CoreCompileInputs.cache
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.dll
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\refint\6T24_LudoBechet_PooAct6.dll
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.pdb
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\6T24_LudoBechet_PooAct6.genruntimeconfig.cache
+C:\Users\beche\Desktop\Ecole\6éme\Info\UAA 14\6T24_LudoBechet_PooAct6\obj\Debug\net6.0\ref\6T24_LudoBechet_PooAct6.dll
