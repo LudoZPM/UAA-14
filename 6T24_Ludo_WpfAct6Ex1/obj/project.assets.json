@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\beche\\Downloads\\6T24_Ludo_WpfAct6Ex1\\6T24_Ludo_WpfAct6Ex1\\6T24_Ludo_WpfAct6Ex1.csproj",
+      "projectUniqueName": "C:\\Users\\beche\\Desktop\\Ecole\\6éme\\Info\\UAA-14\\6T24_Ludo_WpfAct6Ex1\\6T24_Ludo_WpfAct6Ex1.csproj",
       "projectName": "6T24_Ludo_WpfAct6Ex1",
-      "projectPath": "C:\\Users\\beche\\Downloads\\6T24_Ludo_WpfAct6Ex1\\6T24_Ludo_WpfAct6Ex1\\6T24_Ludo_WpfAct6Ex1.csproj",
+      "projectPath": "C:\\Users\\beche\\Desktop\\Ecole\\6éme\\Info\\UAA-14\\6T24_Ludo_WpfAct6Ex1\\6T24_Ludo_WpfAct6Ex1.csproj",
       "packagesPath": "C:\\Users\\beche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\beche\\Downloads\\6T24_Ludo_WpfAct6Ex1\\6T24_Ludo_WpfAct6Ex1\\obj\\",
+      "outputPath": "C:\\Users\\beche\\Desktop\\Ecole\\6éme\\Info\\UAA-14\\6T24_Ludo_WpfAct6Ex1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

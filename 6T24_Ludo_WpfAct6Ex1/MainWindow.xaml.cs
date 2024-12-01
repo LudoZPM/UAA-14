@@ -58,8 +58,21 @@ namespace _6T24_Ludo_WpfAct6Ex1
         }
         public void Damier()
         {
+            for (int i = 0;  i < btn.GetLength(0); i++)
+            {
+                for (int j = 0;  j < btn.GetLength(1); j++)
+                {
+                    Button btn1 = new Button();
+                    btn1.Content = Index.toString();
+                    btn1.Background = Brush.;
+                    btn1.HorizontalAlignment = HorizontalAlignment.Stretch;
+                    btn1.VerticalAlignment = VerticalAlignment.Stretch;
+                    btn1.FontSize = 20;
 
+                }
+            }
         }
+
 
     }
 }
