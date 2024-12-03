@@ -65,7 +65,7 @@ namespace _6T24_ludo_WpfAct5Ex2
                     btn1.VerticalAlignment = VerticalAlignment.Stretch;
                     btn1.HorizontalAlignment = HorizontalAlignment.Stretch;
                     btn1.Foreground = Brushes.Red; 
-                    btn1.FontSize = 20;
+                    btn1.FontSize = 21;
                     btn1.FontWeight = FontWeights.Bold;
                     btn1.Click += onClick;
 
