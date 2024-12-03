@@ -35,7 +35,7 @@ namespace _6T24_Ludo_WpfAct6Ex1
         {
             this.Width = 660;
             this.Height = 660;
-            this.FontSize = 20;
+            this.FontSize = 21;
             ColumnDefinition[] colDef = new ColumnDefinition[btn.GetLength(1)];
             RowDefinition[] rowDef = new RowDefinition[btn.GetLength(0)];
 
