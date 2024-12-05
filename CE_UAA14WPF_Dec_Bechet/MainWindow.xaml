@@ -1,0 +1,61 @@
+﻿<Window x:Class="CE_UAA14WPF_Dec_Bechet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CE_UAA14WPF_Dec_Bechet"
+        mc:Ignorable="d"
+        Title="CE_WPF" Height="1000" Width="1200">
+    <Grid Name="grdMain" Background="#EBD9B4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="34" Foreground="#9DBC98" FontWeight="Bold">VERIFIONS VOS CONNAISSANCE en WPF!</TextBlock>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Foreground="Red" FontSize="30" FontWeight="Bold" Grid.Column="0" Grid.ColumnSpan="2">Test WPF 6T 2024</TextBlock>
+
+        <StackPanel Background="#9DBC98"  Grid.Column="1" Grid.Row="1">
+            <GroupBox Margin="10,10,10,20"  BorderThickness="2" Grid.Column="1" Grid.Row="1" Background="#9DBC98" FontSize="22" FontWeight="Bold" Header="Paramètre">
+                <StackPanel Grid.Column="1" Grid.Row="1">
+                    <GroupBox Margin="10,20,10,20" Header="Choix de la dsiposition">
+                        <StackPanel Margin="10">
+                            <RadioButton >Solitaire</RadioButton>
+                            <RadioButton >Marelle</RadioButton>
+                            <RadioButton >Une bande Latérale</RadioButton>
+                        </StackPanel>
+                    </GroupBox>
+
+                    <GroupBox Margin="10,20,10,20" Header="Taille du tableau" >
+                        
+                            <StackPanel Margin="10">
+                            <DockPanel>
+                              <TextBlock>Nbr de Lignes</TextBlock>
+                                <TextBox x:Name="Ligne" Margin="20,0,0,0" Height="30" Width="30"></TextBox>
+                            </DockPanel>
+
+                            <DockPanel>
+                                <TextBlock>Nbr de Colonne</TextBlock>
+                                <TextBox x:Name="Colonne" Height="30" Width="30"></TextBox>
+                            </DockPanel>
+                        </StackPanel>
+                          
+                        
+                    </GroupBox>
+                </StackPanel>
+            </GroupBox>
+            <Button Click="onClick"  FontSize="22" FontWeight="Bold" Height="100" Content="Valider"></Button>
+        </StackPanel>
+        <Button Background="Red"  Grid.Row="1" Grid.Column="1" Width="100" HorizontalAlignment="Right" VerticalAlignment="Bottom"   FontSize="22" FontWeight="Bold" Height="50" Content="Reset"></Button>
+        
+
+
+
+
+
+    </Grid>
+</Window>

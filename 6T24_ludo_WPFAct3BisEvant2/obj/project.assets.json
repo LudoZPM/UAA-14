@@ -8,24 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\beche\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\220680\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\beche\\Downloads\\6T24_ludo_WPFAct3BisEvant2\\6T24_ludo_WPFAct3BisEvant2\\6T24_ludo_WPFAct3BisEvant2.csproj",
+      "projectUniqueName": "H:\\UAA-14\\6T24_ludo_WPFAct3BisEvant2\\6T24_ludo_WPFAct3BisEvant2.csproj",
       "projectName": "6T24_ludo_WPFAct3BisEvant2",
-      "projectPath": "C:\\Users\\beche\\Downloads\\6T24_ludo_WPFAct3BisEvant2\\6T24_ludo_WPFAct3BisEvant2\\6T24_ludo_WPFAct3BisEvant2.csproj",
-      "packagesPath": "C:\\Users\\beche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\beche\\Downloads\\6T24_ludo_WPFAct3BisEvant2\\6T24_ludo_WPFAct3BisEvant2\\obj\\",
+      "projectPath": "H:\\UAA-14\\6T24_ludo_WPFAct3BisEvant2\\6T24_ludo_WPFAct3BisEvant2.csproj",
+      "packagesPath": "C:\\Users\\220680\\.nuget\\packages\\",
+      "outputPath": "H:\\UAA-14\\6T24_ludo_WPFAct3BisEvant2\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\beche\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\220680\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6T24_Ludo_WpfAct6Ex1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47d049d7ec445e4282508ad5f82779fb5a0d2401")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("6T24_Ludo_WpfAct6Ex1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6T24_Ludo_WpfAct6Ex1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
