@@ -1,0 +1,14 @@
+H:\6T25_ludo_pooAct10\bin\Debug\net6.0\6T25_ludo_pooAct10.exe
+H:\6T25_ludo_pooAct10\bin\Debug\net6.0\6T25_ludo_pooAct10.deps.json
+H:\6T25_ludo_pooAct10\bin\Debug\net6.0\6T25_ludo_pooAct10.runtimeconfig.json
+H:\6T25_ludo_pooAct10\bin\Debug\net6.0\6T25_ludo_pooAct10.dll
+H:\6T25_ludo_pooAct10\bin\Debug\net6.0\6T25_ludo_pooAct10.pdb
+H:\6T25_ludo_pooAct10\obj\Debug\net6.0\6T25_ludo_pooAct10.GeneratedMSBuildEditorConfig.editorconfig
+H:\6T25_ludo_pooAct10\obj\Debug\net6.0\6T25_ludo_pooAct10.AssemblyInfoInputs.cache
+H:\6T25_ludo_pooAct10\obj\Debug\net6.0\6T25_ludo_pooAct10.AssemblyInfo.cs
+H:\6T25_ludo_pooAct10\obj\Debug\net6.0\6T25_ludo_pooAct10.csproj.CoreCompileInputs.cache
+H:\6T25_ludo_pooAct10\obj\Debug\net6.0\6T25_ludo_pooAct10.dll
+H:\6T25_ludo_pooAct10\obj\Debug\net6.0\refint\6T25_ludo_pooAct10.dll
+H:\6T25_ludo_pooAct10\obj\Debug\net6.0\6T25_ludo_pooAct10.pdb
+H:\6T25_ludo_pooAct10\obj\Debug\net6.0\6T25_ludo_pooAct10.genruntimeconfig.cache
+H:\6T25_ludo_pooAct10\obj\Debug\net6.0\ref\6T25_ludo_pooAct10.dll

@@ -54,6 +54,7 @@ namespace _6T24_ludo_BddEx1
 
             return ok;
 
+
         }
         public bool UpdateBiens (int bienId, string info, string nom)
         {
@@ -64,7 +65,7 @@ namespace _6T24_ludo_BddEx1
 
             try
             {
-                string query = "UPDATE table SET nomDuChampAMettreAJour=@parametre WHERE champPourCritere =" + bienId + ";";
+                string query = "UPDATE table SET @parametre WHERE champPourCritere =" + bienId + ";";
                 maConnexion.Open();
                 MySqlCommand upDateCommand = new MySqlCommand(query, maConnexion);
                 upDateCommand.Parameters.AddWithValue("@nom", nom);
@@ -87,7 +88,33 @@ namespace _6T24_ludo_BddEx1
             return ok;
 
         }
-        public bool DeleteBiens (int bienId)
+        public bool AjoutBiens(int bien, string nom)
+        {
+            bool ok = false;
+            MySqlConnection maConnexion = new MySqlConnection(CheminBDD());
+            try
+            {
+                string query = "INSERT INTO table ";
+                maConnexion.Open();
+                MySqlCommand upDateCommand = new MySqlCommand(query,maConnexion);
+                upDateCommand.Parameters.AddWithValue("@nom", nom);
+
+                if(AjoutBiensCommand.ExecuteNonQuery() > 0)
+                {
+                    ok=true;
+                }
+                maConnexion.Open ();
+                return ok;
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine(ex.Message);
+                throw;
+            }
+            string query = "INSERT INTO table ";
+            return ok;
+        }
+        public bool DeleteBiens (int bienId, string nom)
         {
             bool ok = false;
             MySqlConnection maConnexion = new MySqlConnection(CheminBDD());
@@ -99,14 +126,21 @@ namespace _6T24_ludo_BddEx1
                 MySqlCommand upDateCommand = new MySqlCommand(query, maConnexion);
                 upDateCommand.Parameters.AddWithValue("@nom", nom);
 
+                if (DeleteCommand.ExecuteNonQuery() > 0)
+                {
+                    ok = true;
+                }
+                maConnexion.Open();
+                return ok;
             }
-            catch
+            catch (Exception ex)
             {
-
+                Debug.WriteLine(ex.Message);
+                throw;
             }
 
             return ok;
         }
 
     }
-}
+}                                                                      
